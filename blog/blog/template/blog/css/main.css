@@ -1,0 +1,38 @@
+*{
+	box-sizing:border-box;
+}
+.responsive {
+  width: 100%;
+  max-width:400px;
+  height: auto;
+}
+.responsive1 {
+  width: 100%;
+  max-width:1127.45px;
+  height: auto;
+}
+.cat-box{
+	padding:15px;
+}
+.iot{
+	border:1px solid #eee;
+	padding:0;
+	overflow:hidden;
+	background:#fefefe;
+	box-shadow:5px 5px 5px #eee,-5px -5px 5px #eee;
+}
+.box-text{
+	padding:10px;
+}
+.box-btn{
+	margin-left:25%;
+	margin-bottom:10px;
+}
+.pop-post{
+	color:#000;
+}
+.pop-post:hover{
+	text-decoration:none;
+	color:#000;
+	
+}
